@@ -1,0 +1,101 @@
+PedidoID,FechaPedido,ClienteNombre,ClienteCorreo,ClienteTel,ProductoNombre,Categoría,PrecioUnit,Cantidad,TotalPedido,DirecciónEnvio,Ciudad,EstadoEnvio
+1,2025-08-01,Juan Pérez,juan.pérez@Email.Com,3001234567,Teclado Mecánico Corsair,Periféricos,150,1,2800,Cra 45 #23-45,Bogotá,Enviado
+1,2025-08-01,Juan Pérez,juan.pérez@Email.Com,3001234567,Monitor LG UltraWide,Computadores,700,1,2800,Cra 45 #23-45,Bogotá,Enviado
+1,2025-08-01,Juan Pérez,juan.pérez@Email.Com,3001234567,Silla Gamer Razer,Muebles,350,3,2800,Cra 45 #23-45,Bogotá,Enviado
+1,2025-08-01,Juan Pérez,juan.pérez@Email.Com,3001234567,Impresora HP LaserJet,Computadores,300,3,2800,Cra 45 #23-45,Bogotá,Enviado
+2,2025-08-02,María López,María_Lopez_at_email.com,3109876543,Teclado Mecánico Corsair,Periféricos,150,3,2850,Calle 12 #34-56,Medellín,En preparación
+2,2025-08-02,María López,María_Lopez_at_email.com,3109876543,Monitor LG UltraWide,Computadores,700,1,2850,Calle 12 #34-56,Medellín,En preparación
+2,2025-08-02,María López,María_Lopez_at_email.com,3109876543,AirPods Pro,Accesorios,200,3,2850,Calle 12 #34-56,Medellín,En preparación
+2,2025-08-02,María López,María_Lopez_at_email.com,3109876543,Samsung Galaxy S23,Smartphones,1100,1,2850,Calle 12 #34-56,Medellín,En preparación
+3,2025-08-03,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Mouse Logitech M185,Periféricos,25,2,3200,Av. 5 #12-34,Cali,Entregado
+3,2025-08-03,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Samsung Galaxy S23,Smartphones,1100,2,3200,Av. 5 #12-34,Cali,Entregado
+3,2025-08-03,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Silla Gamer Razer,Muebles,350,1,3200,Av. 5 #12-34,Cali,Entregado
+3,2025-08-03,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Impresora HP LaserJet,Computadores,300,2,3200,Av. 5 #12-34,Cali,Entregado
+4,2025-08-04,Ana Torres,ana.Torres@Email.Com,3029988776,Cámara Web Logitech,Accesorios,90,1,4790,Carrera 8 #45-67,Bogotá,Enviado
+4,2025-08-04,Ana Torres,ana.Torres@Email.Com,3029988776,Impresora HP LaserJet,Computadores,300,3,4790,Carrera 8 #45-67,Bogotá,Enviado
+4,2025-08-04,Ana Torres,ana.Torres@Email.Com,3029988776,iPhone 14 Pro,Smartphones,1200,3,4790,Carrera 8 #45-67,Bogotá,Enviado
+4,2025-08-04,Ana Torres,ana.Torres@Email.Com,3029988776,AirPods Pro,Accesorios,200,1,4790,Carrera 8 #45-67,Bogotá,Enviado
+5,2025-08-05,Luis Fernández,luis.Fernández@Email.Com,3004455667,iPhone 14 Pro,Smartphones,1200,1,5450,Cl 20 #10-40,Barranquilla,Enviado
+5,2025-08-05,Luis Fernández,luis.Fernández@Email.Com,3004455667,iPhone 14 Pro,Smartphones,1200,3,5450,Cl 20 #10-40,Barranquilla,Enviado
+5,2025-08-05,Luis Fernández,luis.Fernández@Email.Com,3004455667,Silla Gamer Razer,Muebles,350,1,5450,Cl 20 #10-40,Barranquilla,Enviado
+5,2025-08-05,Luis Fernández,luis.Fernández@Email.Com,3004455667,Teclado Mecánico Corsair,Periféricos,150,2,5450,Cl 20 #10-40,Barranquilla,Enviado
+6,2025-08-06,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,AirPods Pro,Accesorios,200,1,1130,Cra 30 #40-50,Cartagena,En preparación
+6,2025-08-06,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Mouse Logitech M185,Periféricos,25,2,1130,Cra 30 #40-50,Cartagena,En preparación
+6,2025-08-06,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Cámara Web Logitech,Accesorios,90,2,1130,Cra 30 #40-50,Cartagena,En preparación
+6,2025-08-06,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Silla Gamer Razer,Muebles,350,2,1130,Cra 30 #40-50,Cartagena,En preparación
+7,2025-08-07,Andrés Martínez,andres.Martínez@Email.Com,3123344556,AirPods Pro,Accesorios,200,3,5250,Av. 3 #15-25,Bucaramanga,Entregado
+7,2025-08-07,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Teclado Mecánico Corsair,Periféricos,150,1,5250,Av. 3 #15-25,Bucaramanga,Entregado
+7,2025-08-07,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Monitor LG UltraWide,Computadores,700,3,5250,Av. 3 #15-25,Bucaramanga,Entregado
+7,2025-08-07,Andrés Martínez,andres.Martínez@Email.Com,3123344556,iPhone 14 Pro,Smartphones,1200,2,5250,Av. 3 #15-25,Bucaramanga,Entregado
+8,2025-08-08,Juan Pérez,juan.pérez@Email.Com,3001234567,Laptop Dell XPS 13,Computadores,4500,2,13200,Cra 45 #23-45,Bogotá,Enviado
+8,2025-08-08,Juan Pérez,juan.pérez@Email.Com,3001234567,Monitor LG UltraWide,Computadores,700,2,13200,Cra 45 #23-45,Bogotá,Enviado
+8,2025-08-08,Juan Pérez,juan.pérez@Email.Com,3001234567,Samsung Galaxy S23,Smartphones,1100,2,13200,Cra 45 #23-45,Bogotá,Enviado
+8,2025-08-08,Juan Pérez,juan.pérez@Email.Com,3001234567,Impresora HP LaserJet,Computadores,300,2,13200,Cra 45 #23-45,Bogotá,Enviado
+9,2025-08-09,María López,María_Lopez_at_email.com,3109876543,Mouse Logitech M185,Periféricos,25,2,1900,Calle 12 #34-56,Medellín,En preparación
+9,2025-08-09,María López,María_Lopez_at_email.com,3109876543,Mouse Logitech M185,Periféricos,25,2,1900,Calle 12 #34-56,Medellín,En preparación
+9,2025-08-09,María López,María_Lopez_at_email.com,3109876543,AirPods Pro,Accesorios,200,2,1900,Calle 12 #34-56,Medellín,En preparación
+9,2025-08-09,María López,María_Lopez_at_email.com,3109876543,Monitor LG UltraWide,Computadores,700,2,1900,Calle 12 #34-56,Medellín,En preparación
+10,2025-08-10,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Teclado Mecánico Corsair,Periféricos,150,1,1625,Av. 5 #12-34,Cali,Entregado
+10,2025-08-10,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Monitor LG UltraWide,Computadores,700,1,1625,Av. 5 #12-34,Cali,Entregado
+10,2025-08-10,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Mouse Logitech M185,Periféricos,25,3,1625,Av. 5 #12-34,Cali,Entregado
+10,2025-08-10,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Silla Gamer Razer,Muebles,350,2,1625,Av. 5 #12-34,Cali,Entregado
+11,2025-08-11,Ana Torres,ana.Torres@Email.Com,3029988776,Cámara Web Logitech,Accesorios,90,1,4830,Carrera 8 #45-67,Bogotá,Enviado
+11,2025-08-11,Ana Torres,ana.Torres@Email.Com,3029988776,Cámara Web Logitech,Accesorios,90,1,4830,Carrera 8 #45-67,Bogotá,Enviado
+11,2025-08-11,Ana Torres,ana.Torres@Email.Com,3029988776,Laptop Dell XPS 13,Computadores,4500,1,4830,Carrera 8 #45-67,Bogotá,Enviado
+11,2025-08-11,Ana Torres,ana.Torres@Email.Com,3029988776,Teclado Mecánico Corsair,Periféricos,150,1,4830,Carrera 8 #45-67,Bogotá,Enviado
+12,2025-08-12,Luis Fernández,luis.Fernández@Email.Com,3004455667,Monitor LG UltraWide,Computadores,700,1,6100,Cl 20 #10-40,Barranquilla,Enviado
+12,2025-08-12,Luis Fernández,luis.Fernández@Email.Com,3004455667,Monitor LG UltraWide,Computadores,700,3,6100,Cl 20 #10-40,Barranquilla,Enviado
+12,2025-08-12,Luis Fernández,luis.Fernández@Email.Com,3004455667,iPhone 14 Pro,Smartphones,1200,1,6100,Cl 20 #10-40,Barranquilla,Enviado
+12,2025-08-12,Luis Fernández,luis.Fernández@Email.Com,3004455667,Monitor LG UltraWide,Computadores,700,3,6100,Cl 20 #10-40,Barranquilla,Enviado
+13,2025-08-13,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,iPhone 14 Pro,Smartphones,1200,1,2470,Cra 30 #40-50,Cartagena,En preparación
+13,2025-08-13,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Silla Gamer Razer,Muebles,350,2,2470,Cra 30 #40-50,Cartagena,En preparación
+13,2025-08-13,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Teclado Mecánico Corsair,Periféricos,150,2,2470,Cra 30 #40-50,Cartagena,En preparación
+13,2025-08-13,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Cámara Web Logitech,Accesorios,90,3,2470,Cra 30 #40-50,Cartagena,En preparación
+14,2025-08-14,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Cámara Web Logitech,Accesorios,90,2,14680,Av. 3 #15-25,Bucaramanga,Entregado
+14,2025-08-14,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Laptop Dell XPS 13,Computadores,4500,3,14680,Av. 3 #15-25,Bucaramanga,Entregado
+14,2025-08-14,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Teclado Mecánico Corsair,Periféricos,150,2,14680,Av. 3 #15-25,Bucaramanga,Entregado
+14,2025-08-14,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Monitor LG UltraWide,Computadores,700,1,14680,Av. 3 #15-25,Bucaramanga,Entregado
+15,2025-08-15,Juan Pérez,juan.pérez@Email.Com,3001234567,iPhone 14 Pro,Smartphones,1200,2,6000,Cra 45 #23-45,Bogotá,Enviado
+15,2025-08-15,Juan Pérez,juan.pérez@Email.Com,3001234567,iPhone 14 Pro,Smartphones,1200,1,6000,Cra 45 #23-45,Bogotá,Enviado
+15,2025-08-15,Juan Pérez,juan.pérez@Email.Com,3001234567,iPhone 14 Pro,Smartphones,1200,1,6000,Cra 45 #23-45,Bogotá,Enviado
+15,2025-08-15,Juan Pérez,juan.pérez@Email.Com,3001234567,iPhone 14 Pro,Smartphones,1200,1,6000,Cra 45 #23-45,Bogotá,Enviado
+16,2025-08-16,María López,María_Lopez_at_email.com,3109876543,Silla Gamer Razer,Muebles,350,2,1870,Calle 12 #34-56,Medellín,En preparación
+16,2025-08-16,María López,María_Lopez_at_email.com,3109876543,Teclado Mecánico Corsair,Periféricos,150,3,1870,Calle 12 #34-56,Medellín,En preparación
+16,2025-08-16,María López,María_Lopez_at_email.com,3109876543,Teclado Mecánico Corsair,Periféricos,150,3,1870,Calle 12 #34-56,Medellín,En preparación
+16,2025-08-16,María López,María_Lopez_at_email.com,3109876543,Cámara Web Logitech,Accesorios,90,3,1870,Calle 12 #34-56,Medellín,En preparación
+17,2025-08-17,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Impresora HP LaserJet,Computadores,300,2,4550,Av. 5 #12-34,Cali,Entregado
+17,2025-08-17,Pedro Gómez,pedro.gomez@Email.Com,3015556677,iPhone 14 Pro,Smartphones,1200,3,4550,Av. 5 #12-34,Cali,Entregado
+17,2025-08-17,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Teclado Mecánico Corsair,Periféricos,150,1,4550,Av. 5 #12-34,Cali,Entregado
+17,2025-08-17,Pedro Gómez,pedro.gomez@Email.Com,3015556677,AirPods Pro,Accesorios,200,1,4550,Av. 5 #12-34,Cali,Entregado
+18,2025-08-18,Ana Torres,ana.Torres@Email.Com,3029988776,AirPods Pro,Accesorios,200,2,1800,Carrera 8 #45-67,Bogotá,Enviado
+18,2025-08-18,Ana Torres,ana.Torres@Email.Com,3029988776,Silla Gamer Razer,Muebles,350,3,1800,Carrera 8 #45-67,Bogotá,Enviado
+18,2025-08-18,Ana Torres,ana.Torres@Email.Com,3029988776,Teclado Mecánico Corsair,Periféricos,150,1,1800,Carrera 8 #45-67,Bogotá,Enviado
+18,2025-08-18,Ana Torres,ana.Torres@Email.Com,3029988776,AirPods Pro,Accesorios,200,1,1800,Carrera 8 #45-67,Bogotá,Enviado
+19,2025-08-19,Luis Fernández,luis.Fernández@Email.Com,3004455667,Teclado Mecánico Corsair,Periféricos,150,3,2990,Cl 20 #10-40,Barranquilla,Enviado
+19,2025-08-19,Luis Fernández,luis.Fernández@Email.Com,3004455667,iPhone 14 Pro,Smartphones,1200,2,2990,Cl 20 #10-40,Barranquilla,Enviado
+19,2025-08-19,Luis Fernández,luis.Fernández@Email.Com,3004455667,Mouse Logitech M185,Periféricos,25,2,2990,Cl 20 #10-40,Barranquilla,Enviado
+19,2025-08-19,Luis Fernández,luis.Fernández@Email.Com,3004455667,Cámara Web Logitech,Accesorios,90,1,2990,Cl 20 #10-40,Barranquilla,Enviado
+20,2025-08-20,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Samsung Galaxy S23,Smartphones,1100,2,7870,Cra 30 #40-50,Cartagena,En preparación
+20,2025-08-20,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Impresora HP LaserJet,Computadores,300,3,7870,Cra 30 #40-50,Cartagena,En preparación
+20,2025-08-20,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Cámara Web Logitech,Accesorios,90,3,7870,Cra 30 #40-50,Cartagena,En preparación
+20,2025-08-20,Carmen Díaz,Carmen.diaz_at_email.com,3112233445,Laptop Dell XPS 13,Computadores,4500,1,7870,Cra 30 #40-50,Cartagena,En preparación
+21,2025-08-21,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Cámara Web Logitech,Accesorios,90,3,930,Av. 3 #15-25,Bucaramanga,Entregado
+21,2025-08-21,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Cámara Web Logitech,Accesorios,90,1,930,Av. 3 #15-25,Bucaramanga,Entregado
+21,2025-08-21,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Cámara Web Logitech,Accesorios,90,3,930,Av. 3 #15-25,Bucaramanga,Entregado
+21,2025-08-21,Andrés Martínez,andres.Martínez@Email.Com,3123344556,Teclado Mecánico Corsair,Periféricos,150,2,930,Av. 3 #15-25,Bucaramanga,Entregado
+22,2025-08-22,Juan Pérez,juan.pérez@Email.Com,3001234567,Monitor LG UltraWide,Computadores,700,3,5030,Cra 45 #23-45,Bogotá,Enviado
+22,2025-08-22,Juan Pérez,juan.pérez@Email.Com,3001234567,Cámara Web Logitech,Accesorios,90,2,5030,Cra 45 #23-45,Bogotá,Enviado
+22,2025-08-22,Juan Pérez,juan.pérez@Email.Com,3001234567,Silla Gamer Razer,Muebles,350,1,5030,Cra 45 #23-45,Bogotá,Enviado
+22,2025-08-22,Juan Pérez,juan.pérez@Email.Com,3001234567,iPhone 14 Pro,Smartphones,1200,2,5030,Cra 45 #23-45,Bogotá,Enviado
+23,2025-08-23,María López,María_Lopez_at_email.com,3109876543,Monitor LG UltraWide,Computadores,700,3,12400,Calle 12 #34-56,Medellín,En preparación
+23,2025-08-23,María López,María_Lopez_at_email.com,3109876543,Samsung Galaxy S23,Smartphones,1100,1,12400,Calle 12 #34-56,Medellín,En preparación
+23,2025-08-23,María López,María_Lopez_at_email.com,3109876543,AirPods Pro,Accesorios,200,1,12400,Calle 12 #34-56,Medellín,En preparación
+23,2025-08-23,María López,María_Lopez_at_email.com,3109876543,Laptop Dell XPS 13,Computadores,4500,2,12400,Calle 12 #34-56,Medellín,En preparación
+24,2025-08-24,Pedro Gómez,pedro.gomez@Email.Com,3015556677,AirPods Pro,Accesorios,200,2,2250,Av. 5 #12-34,Cali,Entregado
+24,2025-08-24,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Teclado Mecánico Corsair,Periféricos,150,2,2250,Av. 5 #12-34,Cali,Entregado
+24,2025-08-24,Pedro Gómez,pedro.gomez@Email.Com,3015556677,iPhone 14 Pro,Smartphones,1200,1,2250,Av. 5 #12-34,Cali,Entregado
+24,2025-08-24,Pedro Gómez,pedro.gomez@Email.Com,3015556677,Silla Gamer Razer,Muebles,350,1,2250,Av. 5 #12-34,Cali,Entregado
+25,2025-08-25,Ana Torres,ana.Torres@Email.Com,3029988776,Monitor LG UltraWide,Computadores,700,1,9900,Carrera 8 #45-67,Bogotá,Enviado
+25,2025-08-25,Ana Torres,ana.Torres@Email.Com,3029988776,Laptop Dell XPS 13,Computadores,4500,2,9900,Carrera 8 #45-67,Bogotá,Enviado
+25,2025-08-25,Ana Torres,ana.Torres@Email.Com,3029988776,Mouse Logitech M185,Periféricos,25,2,9900,Carrera 8 #45-67,Bogotá,Enviado
+25,2025-08-25,Ana Torres,ana.Torres@Email.Com,3029988776,Teclado Mecánico Corsair,Periféricos,150,1,9900,Carrera 8 #45-67,Bogotá,Enviado
