@@ -189,3 +189,40 @@ export async function insertRows() {
     await db.end();
     console.log('Conexión cerrada.');
 }
+
+
+Para verificar si una tabla está normalizada (en el sentido de las primeras formas normales clásicas: 1FN, 2FN, 3FN), puedes guiarte con una lista de preguntas que funcionen como un checklist.
+
+Aquí te las ordeno por nivel de normalización:
+
+Preguntas para 1FN (Primera Forma Normal)
+¿Cada celda de la tabla contiene un solo valor atómico (nada de listas, valores separados por comas o campos multivaluados)?
+
+¿No existen columnas repetidas para el mismo tipo de dato? (ejemplo: telefono1, telefono2, telefono3 → eso rompe 1FN)
+
+¿Todas las filas tienen la misma estructura y número de columnas?
+
+¿Cada fila es única y se puede identificar con una clave primaria?
+
+Preguntas para 2FN (Segunda Forma Normal)
+(Aplica solo si la clave primaria es compuesta, es decir, de varias columnas)
+
+¿Cada columna depende de toda la clave primaria y no solo de una parte?
+(Ejemplo de error: una tabla con clave compuesta (id_pedido, id_producto) y una columna nombre_cliente que solo depende de id_pedido → violación de 2FN)
+
+¿No hay datos que podrían moverse a otra tabla porque no dependen de toda la clave?
+
+Preguntas para 3FN (Tercera Forma Normal)
+¿Cada columna depende únicamente de la clave primaria y no de otras columnas no clave?
+(Ejemplo de error: tener codigo_postal y ciudad, y ciudad depende de codigo_postal → mejor poner ciudad en otra tabla relacionada)
+
+¿No existen dependencias transitivas?
+(clave → columna A → columna B)
+
+Extra: Boyce–Codd (BCNF)
+Para cada dependencia funcional, ¿el lado izquierdo es una clave candidata?
+(Evita anomalías si hay más de una clave única en la tabla)
+
+💡 Tip práctico:
+Si al responder alguna de estas preguntas la respuesta es “No”, probablemente tu tabla necesita refactorizarse o dividirse en más tablas relacionadas con claves foráneas.
+
